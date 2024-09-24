@@ -11,8 +11,7 @@ The **Velleman K2636 AC Motor Control Kit** is engineered to control AC motors w
 
 This kit operates with an input of 115 VAC and provides an output of 6 VAC, designed to run on mains voltage to regulate current flow to the AC motor. Notably, we tested the circuit using a wall socket providing 167 VAC, and it functioned as intended.
 
-![Functional Block Diagram of K2636 AC Motor Controller](https://keep.google.com/u/0/media/v2/1U6lQbv_xF7i1KKUQeeFJlLMeE-6pL1K7a37E6eVJKbwjyiN75Lyefm3Qax15aq0/1DceKclFC6z9aEGBbuk-rrqJFrzHo4H5dm17nSku-rULpx6MyyX7OWJ2Epo1opQ?accept=image%2Fgif%2Cimage%2Fjpeg%2Cimage%2Fjpg%2Cimage%2Fpng%2Caudio%2Faac&sz=1081)
-
+![Functional Block Diagram of K2636 AC Motor Controller](C:\Users\Daniel\Downloads\Block.png)
 
 The circuit begins with a **power supply block** that feeds AC mains voltage to a transformer. This transformer steps down the high AC voltage from the wall outlet to a suitable lower voltage level for the rest of the circuit. After stepping down the voltage, it travels to the **rectifier block**, which converts the AC waveform into pulsating DC voltage. The **filter block** smooths out any fluctuations, providing a steadier DC voltage output for the control circuit.
 
@@ -22,7 +21,7 @@ The **control circuit block** acts as the brain of the operation, using the stea
 
 The **K2636 AC Motor Controller** consists of five main sections that drive its operation. Below is the circuit schematic, showcasing how current flows throughout the system to operate the motor.
 
-![Overall Schematic of K2636 AC Motor Controller](https://keep.google.com/u/0/media/v2/1x83UHEza48PDYbvFcdMogW2tS0ExQgonm6FNSEAt7L1kt1GEGVTSy_Rka5PR_40/1VEeqz0HxyIXMigXNRqjN9xZws5fz-zpo48XPj6YBN8YkLX4-nksQAkS_3fJFpQ?accept=image%2Fgif%2Cimage%2Fjpeg%2Cimage%2Fjpg%2Cimage%2Fpng%2Caudio%2Faac&sz=1500)
+![Overall Schematic of K2636 AC Motor Controller](C:\Users\Daniel\Downloads\Schematic.png)
 
 - **Section 1:** The power supply accepts an input of 110 - 240 VAC. For this demonstration, it provides 115 VAC to the circuit, with a 6-0-6 center-tapped transformer stepping down the voltage to 6 VAC, ideally achieving a 19:1 ratio.
 
@@ -38,4 +37,4 @@ The circuit regulates a maximum power of 1200W at 240V (max. 5A). A jumper wire 
 
 ---
 
-This version is more concise and organized, making it easier to read while maintaining the technical details. Let me know if you need any further adjustments!
+Replace `path/to/your/image1.png` and `path/to/your/image2.png` with the actual paths to your .png files. Let me know if you need anything else!
