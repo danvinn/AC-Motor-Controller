@@ -36,5 +36,3 @@ The **K2636 AC Motor Controller** consists of five main sections that drive its 
 The circuit regulates a maximum power of 1200W at 240V (max. 5A). A jumper wire must be soldered to specify whether the circuit runs on US or UK mains voltage; we configured it for US mains voltage at 120V and 60 Hz.
 
 ---
-
-Replace `path/to/your/image1.png` and `path/to/your/image2.png` with the actual paths to your .png files. Let me know if you need anything else!
