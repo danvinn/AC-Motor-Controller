@@ -1,7 +1,7 @@
 # AC-Motor-Controller
 Designed and built a Velleman K2636 AC motor controller to regulate AC motors with carbon brushes, utilizing a Triac for precise phase-cutting control. Implemented variable speed control for motors up to 5.5A current load, ensuring high-torque performance while adhering to sound engineering principles.
 
-Here’s a refined version of your overview and theory of operation for your README file:
+**Watch the video of our Controller in action** - https://youtu.be/7YS_fRWJWSc?feature=shared
 
 ---
 
