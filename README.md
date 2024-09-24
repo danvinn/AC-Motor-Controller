@@ -11,7 +11,7 @@ The **Velleman K2636 AC Motor Control Kit** is engineered to control AC motors w
 
 This kit operates with an input of 115 VAC and provides an output of 6 VAC, designed to run on mains voltage to regulate current flow to the AC motor. Notably, we tested the circuit using a wall socket providing 167 VAC, and it functioned as intended.
 
-![Functional Block Diagram of K2636 AC Motor Controller](C:\Users\Daniel\Downloads\Block.png)
+![Functional Block Diagram of K2636 AC Motor Controller](https://github.com/danvinn/AC-Motor-Controller/blob/main/Block.png)
 
 The circuit begins with a **power supply block** that feeds AC mains voltage to a transformer. This transformer steps down the high AC voltage from the wall outlet to a suitable lower voltage level for the rest of the circuit. After stepping down the voltage, it travels to the **rectifier block**, which converts the AC waveform into pulsating DC voltage. The **filter block** smooths out any fluctuations, providing a steadier DC voltage output for the control circuit.
 
@@ -21,7 +21,7 @@ The **control circuit block** acts as the brain of the operation, using the stea
 
 The **K2636 AC Motor Controller** consists of five main sections that drive its operation. Below is the circuit schematic, showcasing how current flows throughout the system to operate the motor.
 
-![Overall Schematic of K2636 AC Motor Controller](C:\Users\Daniel\Downloads\Schematic.png)
+![Overall Schematic of K2636 AC Motor Controller](https://github.com/danvinn/AC-Motor-Controller/blob/main/Schematic.png)
 
 - **Section 1:** The power supply accepts an input of 110 - 240 VAC. For this demonstration, it provides 115 VAC to the circuit, with a 6-0-6 center-tapped transformer stepping down the voltage to 6 VAC, ideally achieving a 19:1 ratio.
 
